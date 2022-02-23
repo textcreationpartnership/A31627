@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal by Dr. Hugh Chamberlain in Essex-Street, for a bank of secure current credit to be founded upon land In order to the general good of landed men. To the great increase of the value of land, and the no less benefit and augmentation of trade and commerce.</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31627</idno>
+            <idno type="STC">Wing C1880</idno>
+            <idno type="STC">ESTC R214180</idno>
+            <idno type="EEBO-CITATION">99826388</idno>
+            <idno type="PROQUEST">99826388</idno>
+            <idno type="VID">30790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1827:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal by Dr. Hugh Chamberlain in Essex-Street, for a bank of secure current credit to be founded upon land In order to the general good of landed men. To the great increase of the value of land, and the no less benefit and augmentation of trade and commerce.</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Sowle, in White-Hart-Court in Gracious-Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in Christ Church College, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  England --  Early works to 1800.</term>
+               <term>Banks and banking --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30790:1" rendition="simple:additions"/>
+            <head>A PROPOSAL By Dr. <hi>Hugh Chamberlain</hi> in <hi>Eſſex-Street,</hi> FOR A BANK of Secure Current Credit To be Founded upon LAND. In order to the General Good of Landed Men. To the Great Increaſe of the Value of Land, and the no leſs Benefit and Augmentation of Trade and Commerce.</head>
+            <div type="introduction">
+               <head>INTRODUCTION.</head>
+               <p>THE great Scarcity of Money, and danger of receiving bad, together with the uncertain Rates of Guineas, makes People willing to re<g ref="char:EOLhyphen"/>ceive their Debts in Bank-Bills, or Goldſmith's Notes, rather than in Money in Specie; by which means Credit, ſecurely Founded, may be eaſily brought into uſe: This hath encouraged ſeveral to propoſe the Eſtabliſhing of Banks, the Notion of which, having met with ſo general Approbation, it is hoped that Dr. <hi>Chamberlain</hi>'s Propoſals ſhall not fail of good Encouragement; eſpecially ſince he was the Firſt Promoter of Banks upon Annual In<g ref="char:EOLhyphen"/>comes, to his great Expence of Money, Time and Pains; beſides his Propoſals offer Greater Advantages, both to the Nation in general, and Subſcribers in particular, than any others whatſoever; and the Fund (by him propoſed) is in all reſpects the Beſt and Safeſt: And, tho' all the Banks that are now Erecting, ſhould flouriſh together, yet the Na<g ref="char:EOLhyphen"/>tion may, nay muſt, thrive the better; and indeed it will be a certain and effectual means to lower the Intereſt of Money, and bring the Uſurers and Money'd Men to more conſcionable Terms, and yet without damage to theſmelves, as it may be ordered. Thus may things be managed to the mutual Benefit, both of thoſe whoſe Fortunes lye in Land, and thoſe who have theirs in Money: Whereas at preſent, tho' the Landed-Man be never ſo willing to ſell his Eſtate to pay his Debts, yet becauſe he cannot get the Money, the mercileſs Money'd Man takes the Advantage of him, ſeizeth his Eſtate, impriſoneth his Perſon, fore-cloſeth the Equity of Redemption, and leaves the miſerable Landed-Man's Family to ſtarve, and many Traders to ſuffer Loſs, to whom he was indebted: And what, except killing the Man, can our Enemies the French do more? This Propoſal of Credit on Land, can only heal the aforeſaid Evils, and fully Anſwer all our preſent Neceſſities; there being now no other known way left that can do. For the preſent Royal Bank refuſes to ſupply Mortgagers, tho' they offer'd it in their Advertiſements; and yet at the ſame time endeavour to engroſs all the Money in the Nation to themſelves; which makes the other Money'd Men to put the more extravagant va<g ref="char:EOLhyphen"/>lue on what they have; and this looks as if they had all combined together to undermine the Landed-Men, and ſeiz their Eſtates; and that this is carrying on, may be proved by there be<g ref="char:EOLhyphen"/>ing at this inſtant near Two hundred Suits at Law for fore-cloſing the Equity of Redemption. It is the Intereſt of Landed-Men therefore, and the only Remedy left, nay it is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for the better ſupport of their Families, and the preſervation of the Value of their Lands, to agree together, and in their Defence to run Counter to the Deſigns of all unfair Dealers in Money, and to ſhake off their Slavery by engaging their Lands to make good all Bills and Tickets of Credit that ſhall be given out thereupon; and this will make Lands perform the Uſe of Money, as well as Gold and Silver when Coined. All Shopkeepers, and others whatſoever; may more ſafely take them in payment, than the preſent Royal Bank, or Goldſmith's Notes; theſe having no other Fund to make them good but their bare Reputation, which is nothing at all; for if they Break, it is loſt; if Dye, it is an hazard; but the Land is
+<pb n="2" facs="tcp:30790:2"/>the beſt and certaineſt Security the World can give: And by this Means the Intereſt of Money will be lower'd, the Landed-Man ſaved from Ruine, and Enabled to pay his Debts, and ſpend more f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, to the great Encouragement of Trade: For as the Caſe now ſtands, all our Land and Staple Commodities dance Attendance on Money, made of a Foreign Commodity, and of which we can therefore have no certainty; for that the Induſtry, Cunning, or Caprice of Fo<g ref="char:EOLhyphen"/>reign Princes and Merehants may not only debar its Entrance, but draw away what we are al<g ref="char:EOLhyphen"/>ready poſſeſs'd of, which makes Landed-Men pay 8 <hi>l.</hi> or 10 <hi>l. per Cent.</hi> for all Moneys and Fo<g ref="char:EOLhyphen"/>reign Commodities, as Silk, Linnen, and Spices; Whereas the Merchant gives but 3 <hi>l.</hi> or 4 <hi>l. per Cent.</hi> for Land and its Product, as Wool, Corn, <hi>&amp;c.</hi> So that by degrees the Landed-Men are eaten out of their Eſtates, for want of having the Ballance kept even between Intereſt of Money, and Rents of Land. But when once our Land ſhall be thus by Bills or Tickets of Cre<g ref="char:EOLhyphen"/>dit, turn'd into the Nature of Money, it may wait on Commodities, and ſerve all our Occaſi<g ref="char:EOLhyphen"/>ons full as well as Money. Land-Banks have this Prerogative over all other Banks, <hi>viz.</hi> We are ſure none but Engliſh ſhall have the immediate benefit of them, without any diſobliging Excluſive Clauſes. And whereas we can have no Certainty that the Royal Bank of <hi>England</hi> doth not belong intirely to Foreigners; 'tis ſure a good part of it doth. Further, The Fund of Land can never be imbezled, nor tranſported; but 'tis poſſible all the Fund of Money'd Banks may be drawn out to <hi>Holland, France,</hi> or <hi>Conſtantinople,</hi> and nothing left to <hi>England,</hi> but an <hi>Hinc illae Lachrymae.</hi>
+               </p>
+               <p>The Methods and Practices of Banks have fully diſcovered the Advantages and Benefits of the uſe of Credit, ſo that all which is now neceſſary to be inſiſted upon, is to recommend This to the Favour of the Nation, by ſhewing wherein it excells all the reſt; and that it is ſafe, and therefore beſt, for all Perſons to accept the Bills hence iſſued, tho upon an hundred years Rent, becauſe there is no difference in the uſe of thoſe to the Dealers in them, from ſuch as are iſſued upon ten years.</p>
+               <p>For which Reaſons therefore, and the following, the Doctor's Land-Bank ought to have the Preference. Becauſe,
+<list>
+                     <item>1. There are more Landed-Men in the Nation than Money'd-Men.</item>
+                     <item>2. There is a greater Value of Land than there is of Money.</item>
+                     <item>3. There is no Money but what is the Product of this Land.</item>
+                     <item>4. The Landed-Men have chiefly contributed to the Support of this War.</item>
+                     <item>5. The Landed-Men are the moſt that want Money, and the leaſt eſteem'd and conſider'd.</item>
+                     <item>6. The Land doth yearly yield its increaſe, for our Support, but Commodities periſh in their uſe.</item>
+                     <item>7. The Land remains a ſure Fund, when Money or Commodities are carried away, or worn out.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <p>We will now ſhew wherein This Excells all the reſt. And,
+<list>
+                     <item>1. Becauſe whatever Money you depoſit, you may have Bills, or Tickets of Credit, with In<g ref="char:EOLhyphen"/>tereſt at <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>per Cent. per diem</hi> for the ſame.</item>
+                     <item>2. It furniſheth Landed-Men with double the Value of their Eſtates in Credit, which will not only enable them to pay off all their Debts and Mortgages, and clear their Titles, but likewiſe to purchaſe much more, or to improve the ſame by building or otherwiſe: Whereas no other Bank will ſupply them with the full value of their Eſtate.</item>
+                     <item>3. It affords likewiſe a Stock to manage in Trade, which at Ten <hi>per Cent.</hi> does not only pay the Annuity, but gives twice as much clear gain; by which returns the Subſcribers can the better make good the Bills.</item>
+                     <item>4. It will enable the Society to erect, and carry on, the ſo much deſired Fiſhing Trade, or any other neceſſary Undertaking that the Subſcribers ſhall think fit.</item>
+                     <item>5. It will lower the Intereſt of Money, more than any other Bank, and more Effectually than by the Reſtraint of Laws.</item>
+                  </list>
+               </p>
+               <p>The next is, that it's as ſafe to accept Bills ſecured by one Hundred Years Rent, as thoſe by Ten, or on demand, and no difference to the Dealers in them for firſt.</p>
+               <p n="1">1. No Bank can find Money for all their Credit, if call'd in at once; If there be but a Fund to make it good ſometime or other 'tis ſufficient, and more than in any of the preſent Banks beſides this; therefore this Bank of Land can no more be diſlik'd for that reaſon than any other; and 'tis very unreaſonable to require, his Bank ſhould diſcharge all at once, which is not expected from others. And theſe Bills may as well paſs in the mean time as any other; for moſt of the Credit of the Banks abroad hath paſs'd above one Hundred Years, without drawing out any Money, and moſt of our Lands have yielded Rent very much longer: Theſe joyned make this Bank; for One Hundred Years Rent paid can fully ſatisfy One Hundred Years Credit of like value.</p>
+               <p n="2">2. The ſole end of giving out Bills is to ſupply the Money not now to be had in <hi>England:</hi> If then an Eſtate be Mortgag'd for One Hundred Years purchaſe, and Bills given out thereupon,
+<pb n="3" facs="tcp:30790:2"/>and if all be return'd at Ten Years end, and then the ſame, or another Eſtate be Mortgaged for Ten Years more, and ſo on to One Hundred or One Thouſand Years, ſtill the Bills are paſſing in the Nation as Money, and are the ſame in Effect. Now in the Doctor's you have above double your Eſtate in Bills preſently, as Eſtates are now valued, which is the encouragement, and makes you amends for tying your Eſtate ſo long as One Hundred Years: In the other Bank you can have but two Thirds of the preſent value of your Eſtate, which does but juſt eaſe you for the preſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, by paying off the Mortgages, but ſtill leaves you as much in debt to the Bank, tho' with ſmall<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Intereſt. And as you pay the Bills away, it anſwers your ends; for after your wants are ſupplyed, what matter is it it to you, whether that Bill you have payd away be cancell'd Ten Years or one Hundred Years hence? And it is all one to the Dealers, when they know it is well ſecur'd at laſt, and can Trade with them the while, and that the Number of theſe Bills will be limitted to the Fund, being under a ſevere check by the Directors, and will all be certainly bought up, ſo that the Nation will not looſe. Whereas, the Bills of the other Banks are not limitted, but may abundantly exceed their Fund: And therein lies the ſecre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gain to themſelves, but apparent danger of loſs hereafter to the Nation.</p>
+               <p n="3">3. There will be a great Number of Subſcribers engaged, whoſe Lands lye ſcattered in all parts of <hi>England,</hi> and theſe will agree to receive the ſaid Bills in all payments of Rents, and Fines from their Tenants, and all other Perſons they Deal with; and likewiſe will pur<g ref="char:EOLhyphen"/>chaſe Comodities of all ſuch Tradeſmen and Merchants, that will accept them, before any other.</p>
+               <p n="4">4. There will be a great Number of Traders and Merchants, who will find it their In<g ref="char:EOLhyphen"/>tereſt by engaging ſo many Subſcribers to be their Cuſtomers, to take theſe Bills and Tickets for their Goods, ſo that all may be Supply'd by them, with what Neceſſarys they ſhall want, as well as for ready Money; which will ſave the trouble of telling, as well as fear of taking bad Money.</p>
+               <p n="5">5. There will be a great Summ of ready Money depoſited in the Bank to exchange (if there be occaſion) Tickets, or Bills; ſo that no Perſon need ſcruple to take them, when he can turn them into Money as any time: And this will be a means to prevent long Accounts, and all the inconveniences of Law-ſuits that uſually attend them; and a ſufficient Encouragement for the Trader to take the Bills or Tickets, and diſcharge the Gentleman or Debtor: His buſineſs being afterwards only with the Bank, which is well ſecured by the Fund of Land that is tyed to make all good, which it effectually does by the annual payment into the Bank where they are cancel'd: I hope here is enough ſaid of the following Propoſal, to encourage Landed Men to Subſcribe, and to promote the general Currency of the Bills, to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfecting of this great and good Undertaking.</p>
+            </div>
+            <div type="part">
+               <head>It is Propoſed by Dr. <hi>Hugh Chamberlain,</hi>
+               </head>
+               <p>
+                  <hi>That every Freeholder, who will, for a General, ſo well as for his own Pri<g ref="char:EOLhyphen"/>vate Good, ſubſcribe One hundred and fifty Pound</hi> per Annum, <hi>for One hundred and fifty Years, (unleſs ſooner Diſcharged) to ſecure the Payment of One hundred, Pound</hi> per Annum, <hi>only for One hundred Years (the firſt Rent not Commencing till two or three Years after the Subſcription) and will further Exchange One Thou<g ref="char:EOLhyphen"/>ſand Pound in Gold or Silver, current Money of this Kingdom, into this So<g ref="char:EOLhyphen"/>cieties Bills, payable on Demand, at the ſeveral Times, and in ſuch Proportions as is hereafter mentioned:</hi> That is to ſay,</p>
+               <list>
+                  <item>400 <hi>l.</hi> down, Shall Receive 1000 <hi>l.</hi> At the ſame reſpective Times in the ſaid Bills, or Current Credit.</item>
+                  <item>300 <hi>l.</hi> at a years end, Shall Receive 1100 <hi>l.</hi> At the ſame reſpective Times in the ſaid Bills, or Current Credit.</item>
+                  <item>200 <hi>l.</hi> at two years end, Shall Receive 1200 <hi>l.</hi> At the ſame reſpective Times in the ſaid Bills, or Current Credit.</item>
+                  <item>100 <hi>l.</hi> at three years end, Shall Receive 1300 <hi>l.</hi> At the ſame reſpective Times in the ſaid Bills, or Current Credit.</item>
+                  <item>And 1400 <hi>l.</hi> more in the ſame Credit, at Four years end, from the time of the Firſt Payment.</item>
+               </list>
+               <p>And he ſhall have alſo 3000 <hi>l. viz.</hi> The Thouſand Pound he paid in Money, and Two Thouſand Pound in like current Credit, paid into a Joynt Stock of Trade for his own particular Advantage, to be managed by Perſons choſen by the Subſcribers; which Stock ſhall not be Alienable, nor Transferable, but together with his ſaid Eſtate, and will (if it ſhould yield but Five <hi>per Cent. per Annum,</hi> tho' much more may
+<pb n="4" facs="tcp:30790:3" rendition="simple:additions"/>reaſonably be expected) not only pay the Rent Reſerved, but alſo make good Defe<g ref="char:EOLhyphen"/>ctive Titles, put Money yearly into his Purſe; and, being added to the Five Thou<g ref="char:EOLhyphen"/>ſand Pound advanced to him in manner aforeſaid, will be a very large clear Gain; and all this for nothing in effect, more than a Collateral Security of One hundred and fifty Pounds <hi>per Annum</hi> in Lands. And the like Manner and Proportion will be obſerved for any greater or leſſer Yearly Payment ſubſcribed.</p>
+               <p>And, for preventing all manner of Loſs and Hazard to the Subſcribers, both Free<g ref="char:EOLhyphen"/>holders and Traders, Truſtees ſhall be appointed at firſt, to whom the Eſtates ſhall be Convey'd; and alſo Directors (with good Salaries, and without Intereſt in the Profit) ſhall be Elected to take Care, that no Credit be iſſued without a ſufficient Fund firſt ſetled, or Money equivalent thereto paid in.</p>
+               <p>For a plainer Illuſtration of this Propoſal, obſerve, That every Freeholder, ſubſcribing One hundred and fifty Pound <hi>per Annum,</hi> as above, hath Eight Thouſand Pound lent him in the whole, at the yearly Intereſt of a quarter, or Five Shillings <hi>per</hi> Hundred Pounds; which being Twenty Pounds <hi>per Annum</hi> for Eight Thouſand Pounds, and computed for One hundred years, makes Two thouſand Pounds; and being added to the Eight thouſand Pounds, makes together in the whole Ten thouſand Pounds, and no more. Now, becauſe Ten thouſand Pound is too great a Sum to be left to one Payment at the laſt, or to be made good by the ſubſcribed Secu<g ref="char:EOLhyphen"/>rity in leſs than the whole Term; therefore, as well for mutual Convenience, as preventing all hazards, the whole Sum is to be repaid by One hundred equal Annual Payments of One hundred Pound each; which, conſidering the Sum advanced, the eaſie Payments, and the low Intereſt, is of a far greater Advantage to the Subſcriber than any thing of this kind was ever yet pro<g ref="char:EOLhyphen"/>poſed, or can be by any other Methods effected; and yet here the Credit is ſecured by a much better Conſtitution, as well as a ſurer Fund, &amp; more ready Money in proportion is here reſerved to circulate the Bills, than in any other Bank or Fund of Credit whatever in the known World. So that from the Premiſes, may follow this ſtrong natural Concluſion, That 'tis highly the Intereſt of the Nation, eſpecially of the ſubſcribing Freeholders and Tradeſmen, to endeavour induſtriouſly to promote the Univerſal Currency and Credit of theſe Bills; and the rather, be<g ref="char:EOLhyphen"/>cauſe 'tis morally, as well as naturally impoſſible, any Perſon can ſuffer Loſs hereby, tho' very probable all may be great Gainers; for if all receive them, none can loſe by them; and when 'tis found that none can loſe by them, all will receive them.</p>
+               <p>If any Landed Man, that doth approve of this Propoſal, ſhould refuſe to ſubſcribe for want of ready Money, as is herein required; for his Satisfaction, there may be another Expedient found out to help him, that is not neceſſary to be mention'd here.</p>
+               <p>If it were neceſſary, it might be here taken Notice, That this Propoſal was Approved by one Committee of Parliament, and Reported to be Practicable, and Profitable to the Nation, by another. And it is now Reſolved to begin to put the ſame in Practice, as ſoon as 50000 <hi>l. per Annum</hi> ſhall be ſubſcribed, of which a good part is already, and the Remainder daily fil<g ref="char:EOLhyphen"/>ling up.</p>
+               <p>For a Demonſtration that nothing is hereby intended but what is Juſt and Fair, and that no Man can run any hazard by ſubſcribing Lands, or receiving any of theſe Bills or Tickets of Credit; It is further propoſed. That if, upon a years Tryal, this Bank or Office ſhall be found Unſucceſsful, which ſeems very unlikely, if not impoſſible, Then all the Subſcribers, being obliged by Covenant to return the whole Credit at firſt received, ſhall have their Money again, and their Lands Releaſed.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street.</hi> 1695.</p>
+            <pb facs="tcp:30790:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
